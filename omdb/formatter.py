@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# this fileis part of omdbs
+# this fileis part of omdb
 # 
 # Copyright 2012 Jake Johns <jake@jakejohns.net>.
 # 
@@ -21,7 +21,7 @@
 # Author: Jake Johns <jake@jakejohns.net>
 # Description: 
 # Created: 2012-10-23
-# Modified: 2012-12-07  21:24
+# Modified: 2012-12-07  21:58
 
 import sys
 

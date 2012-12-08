@@ -17,11 +17,11 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 # 
-# File: flick
+# File: service.py
 # Author: Jake Johns <jake@jakejohns.net>
 # Description: 
 # Created: 2012-10-23
-# Modified: 2012-12-07  21:19
+# Modified: 2012-12-07  21:58
 
 
 import urllib, urllib2
